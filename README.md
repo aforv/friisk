@@ -1,0 +1,2 @@
+# friisk
+Discord Bot
